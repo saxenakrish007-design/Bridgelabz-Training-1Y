@@ -7,4 +7,3 @@ public class LC58 {
         return lastWord.length();
     }
 }
-
